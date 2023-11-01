@@ -18,10 +18,10 @@
 // let s2 = "Singh"
 
 // console.log(s1+" "+s2)
-console.log("1" + 2)
-console.log(1 + "2")
-console.log("1" + 2 + 2)
-console.log(1 + 2 + "2")
+console.log("1" + 2)//12
+console.log(1 + "2")//12
+console.log("1" + 2 + 2) //122
+console.log(1 + 2 + "2") //32
 
 console.log(+true);
 console.log(+"");
