@@ -1,0 +1,29 @@
+h1{
+    color: rgb(255, 0, 0);
+}
+body{
+    font-family:'Cascadia Code';
+    background-image: url("https://t4.ftcdn.net/jpg/03/62/05/31/360_F_362053188_oQ0WRHCFkIY4QlXS1S5d1i9bpYup67ll.jpg");
+    background-size: cover;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+#msg-el{
+    font-style: italic;
+    font-weight: bold;
+}
+p{
+    color: antiquewhite;
+}
+button{
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
