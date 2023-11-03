@@ -1,9 +1,16 @@
-*{
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('https://fonts.gstatic.com/s/sourcecodepro/v14/2TS8t4cNX6j89mJ75F4JmZWjb8TKq6lRszgu2tbL7uU.woff2') format('woff2');
+
+}
+
+* {
     margin: 0;
     padding: 0;
-    font-family: 'Cascadia Code';
+    font-family: 'Source Code Pro', monospace;
     box-sizing: border-box;
 }
+
 body{
     background-color: #222;
 }
